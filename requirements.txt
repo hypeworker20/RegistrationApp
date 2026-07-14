@@ -1,0 +1,5 @@
+express
+ejs
+mysql2
+connect-flash
+express-session
